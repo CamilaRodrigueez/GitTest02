@@ -1,11 +1,24 @@
-body{
-    background-color: aqua;
-}
 
-h1{
-    margin: 300px;
-    width: 70%;
+.yellow{
+    margin: 15px auto;
     height: 150px;
-    background-color: beige;
-    text-align: center;
+    width: 60%;
+    border-color: black;
+    background-color: yellow;
+
+}
+.blue{
+    margin: 15px auto;
+    height: 150px;
+    width: 60%;
+    border-color: black;
+    background-color: blue;
+
+}
+.red{
+    margin: 15px auto;
+    height: 150px;
+    width: 60%;
+    border-color: black;
+    background-color: red;
 }
